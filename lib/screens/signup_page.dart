@@ -10,19 +10,19 @@ class SignUp extends StatelessWidget {
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Color(0XFF343E95),
-        actions: <Widget>[
-          FlatButton(
-            onPressed: () {},
-            child: Icon(Icons.search, color: Colors.white),
-          ),
-          FlatButton(
-            onPressed: () {},
-            child: Icon(
-              Icons.menu,
-              color: Colors.white,
-            ),
-          ),
-        ],
+        // actions: <Widget>[
+        //   FlatButton(
+        //     onPressed: () {},
+        //     child: Icon(Icons.search, color: Colors.white),
+        //   ),
+        //   FlatButton(
+        //     onPressed: () {},
+        //     child: Icon(
+        //       Icons.menu,
+        //       color: Colors.white,
+        //     ),
+        //   ),
+        // ],
       ),
       backgroundColor: Color(0XFF343E95),
       body: SingleChildScrollView(
